@@ -53,5 +53,5 @@ Voir la doc complète surle sujet : https://docs.conda.io/projects/conda/en/late
 - Copier ensuite vos travaux dans le repository local de <u>votre compte github</u> et les exporter avec la séquence  :
   - <code>git add .</code>
   - <code>git commit -m "message"</code>
-  - <code>git pull origine</code>
+  - <code>git push origine</code>
 
