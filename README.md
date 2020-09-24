@@ -16,5 +16,3 @@ Plan prévisionnel des sessions
 - **Session 5** : Encore plus loin avec Pandas, Manipulation de données, analyses simples (4/12)
 - **Session 6** : Visualisation et Time series (12/12)
 - **Examen** : à définir
-
-La session a démarré
