@@ -28,7 +28,7 @@ La colonne "geo_shape" comporte des chaines de catactères au format  JSON. Elle
 
 **Utilisation d'environnements virtuels** :
 
-Pour isoler les librairies utilisées dans un projet, se créer un environnement par projet, par exemple :
+Pour isoler les librairies utilisées dans un projet, se créer un environnement Python par projet, par exemple :
 
 <code>conda create --name myenv</code>
 
@@ -42,7 +42,7 @@ Puis lancer jupyter :
 
 Votre notebook sera dans l'envrionnement sélectionné.
 
-Voir la doc complète surle sujet : https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html 
+Voir la doc complète sur le sujet : https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html 
 
 **Utilisation de git**
 
