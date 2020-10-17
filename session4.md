@@ -5,7 +5,7 @@
 
 - Corrigé projets maisons
 
-- Cleaning des data:
+- Cleaning des data :
 
   - Traitement des données dupliquées
   - Traitement des valeurs manquantes
