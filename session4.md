@@ -8,8 +8,8 @@
 - Cleaning des data :
 
   - Traitement des données dupliquées
-  - Traitement des valeurs manquantes
   - Renommage des colonnes
+  - Traitement des valeurs manquantes
   - Remplacement de valeurs
   - Conversion des types numériques et temporels
   - Extraction d'informations
