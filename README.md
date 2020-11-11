@@ -14,5 +14,6 @@ Plan prévisionnel des sessions
 - **Session 3** : Parsing XML, Web scraping et API (01/10) [[plan](session3.md)]
 - **Session 4** : Cleaning, un peu plus loin avec pandas (19/10) [[plan](session4.md)]
 - **Session 5** : Encore plus loin avec Pandas, Manipulation de données, analyses simples (4/11) [[plan](session5.md)]
-- **Session 6** : Visualisation et Time series (12/11) [[plan](session6.md)]
-- **Examen** : à définir
+- **Session 6** : Time series et Visualisation (12/11) [[plan](session6.md)]
+- **Examen** : Le 15/12
+
