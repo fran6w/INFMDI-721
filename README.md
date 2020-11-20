@@ -15,5 +15,5 @@ Plan prévisionnel des sessions
 - **Session 4** : Cleaning, un peu plus loin avec pandas (19/10) [[plan](session4.md)]
 - **Session 5** : Encore plus loin avec Pandas, Manipulation de données, analyses simples (4/11) [[plan](session5.md)]
 - **Session 6** : Time series et Visualisation (12/11) [[plan](session6.md)]
-- **Examen** : Projet final du 20 au 30 novembre (à venir)
+- **Examen** : Projet final du 20 au 30 novembre [[sujet](projet_final.md)]
 
