@@ -39,9 +39,10 @@ N.B. : le Vendée Globe étant en cours, il sera tenu compte de la fraicheur des
 
 Les éventuelles questions et réponses seront publiées ci-après au fil de l'eau :
 
-- Qu'est-ce qu'un *foil* ?
-  - https://www.vendeeglobe.org/fr/actualites/19755/quels-foils-pour-gagner-le-vendee-globe
-  - La présence d'un *foil* est indiqué dans l'attribut "Nombre de dérives" des fiches techniques des voiliers.
+1. Qu'est-ce qu'un *foil* ? https://www.vendeeglobe.org/fr/actualites/19755/quels-foils-pour-gagner-le-vendee-globe La présence d'un *foil* est indiqué dans l'attribut "Nombre de dérives" dans les fiches techniques des voiliers.
+
+2. Nous sommes assez libres dans ce qu’il y a à faire, et nous serons évalués sur la quantité / qualité de ce que nous aurons produit ? Oui.
+3. Pouvons-nous utiliser n’importe quelle librairie (ex : geopandas) ? Oui.
 
 **Avertissement**
 
