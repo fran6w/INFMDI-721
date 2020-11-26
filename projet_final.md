@@ -44,6 +44,7 @@ Les questions et réponses sont publiées ci-après au fil de l'eau :
 3. Pouvons-nous utiliser n’importe quelle librairie (ex : geopandas) ? Oui.
 4. Quel doit être l'équilibre entre la rédaction et le codage ? Il est préférable de fournir une rédaction des problèmes identifiés et de leur résolution accompagné d'un code commenté assez compact.
 5. Comment est-ce que l'on peut faire pour s'assurer que vous pourrez avoir les mêmes librairies que nous utilisons dans notre code ? Si vous utilisez anaconda, vous pouvez créer un fichier avec la commande `conda env export --name ENVNAME > environment.yml` ; si vous n'utilisez pas anaconda, vous pouvez créer un fichier avec la commande `pip freeze > requirements.txt` ; dans les 2 cas, vous pouvez publier votre environnement avec le notebook.
+6. Si le français n'est pas ma langue maternelle, est-ce que je peux écrire mon projet en anglais ? Oui.
 
 **Avertissement**
 
