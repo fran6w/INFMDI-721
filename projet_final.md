@@ -13,7 +13,7 @@ Il vous appartient de charger les données en Python, de procéder aux préparat
 - Préparation des données : 5 points
 - Analyses et story telling : 7 points
 
-N.B. : le Vendée Globe étant en cours, il sera tenu compte de la fraicheur des données utilisées.
+N.B. : le Vendée Globe étant en cours, il sera tenu compte de la fraîcheur des données utilisées.
 
 **Exemples de traitements et d'analyses** :
 
